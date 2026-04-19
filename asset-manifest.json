@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-greeting-app/static/css/main.66ded1f9.css",
+    "main.js": "/my-greeting-app/static/js/main.a6e56377.js",
+    "static/js/453.66ac0b1b.chunk.js": "/my-greeting-app/static/js/453.66ac0b1b.chunk.js",
+    "index.html": "/my-greeting-app/index.html",
+    "main.66ded1f9.css.map": "/my-greeting-app/static/css/main.66ded1f9.css.map",
+    "main.a6e56377.js.map": "/my-greeting-app/static/js/main.a6e56377.js.map",
+    "453.66ac0b1b.chunk.js.map": "/my-greeting-app/static/js/453.66ac0b1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ded1f9.css",
+    "static/js/main.a6e56377.js"
+  ]
+}
